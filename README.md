@@ -1,4 +1,13 @@
-## Hi there 👋
+                              // Hi 👋 It's Hamza Ahmad //
+                          A talented programmer from pakistann
+ ______________________________________________________________________________________________
+         How to reach me : HamzaAhmad-098
+                          
+        I'm currently working on web developement 
+        I'm currently learning c++
+        
+        
+                      
 
 <!--
 **HamzaAhmad-098/HamzaAhmad-098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
