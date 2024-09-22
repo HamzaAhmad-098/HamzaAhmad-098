@@ -1,7 +1,7 @@
                               // Hi 👋 It's Hamza Ahmad //
                           A talented programmer from pakistann
  ______________________________________________________________________________________________
-         How to reach me : HamzaAhmad-098
+         How to reach me: jhaji1223@gmail.com 
                           
         I'm currently working on web developement 
         I'm currently learning c++
