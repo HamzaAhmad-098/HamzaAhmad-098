@@ -38,7 +38,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=HamzaAhmad-098&show_icons=true&count_private=true&hide=stars&theme=radical" alt="GitHub Stats" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAhmad-098&langs_count=8&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 <p align="center">
@@ -67,7 +67,7 @@ Hamza Ahmad
 🔗 GitHub: HamzaAhmad-098
 - 📧 Email: [jhajji1223@gmail.com](mailto:jhajji1223@gmail.com)
 - 🌐 Portfolio: [https://portfolio.hamzaxdevelopers.dpdns.org](https://portfolio.hamzaxdevelopers.dpdns.org) 
--    Linkedin : [https://www.linkedin.com/in/hamza-ahmed-jamil-ahmed-3b7295330?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCuVkEheiQKSXiwXcon%2F5PQ%3D%3D]
+-    Linkedin : [https://www.linkedin.com/in/hamzaxdevelopers]
 </p>
 
 
