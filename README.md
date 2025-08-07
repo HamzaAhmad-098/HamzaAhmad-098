@@ -49,7 +49,7 @@
 <h3 align="center">🛠️ Tools & Technologies</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,rails,ruby,git,github,linux,postgres,mysql,sqlite,arduino,py,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,c#,py,rails,ruby,css,html,js,bootstrap,git,github,linux,postgres,mysql,sqlite,arduino,processing,visual studio" />
 </p>
 
 ---
@@ -59,8 +59,7 @@
 <p align="center">
   <a href="https://portfolio.hamzaxdevelopers.dpdns.org" target="_blank">🌐 Portfolio</a> •
   <a href="https://github.com/HamzaAhmad-098" target="_blank">GitHub</a> •
-  <a href="https://linkedin.com/in/hamza-ahmed-jamil-ahmed-3b7295330" target="_blank">LinkedIn</a> •
-  <a href="jhaji1223@gmail.com" target="_blank">Email</a>
+
 </p>
 
 
