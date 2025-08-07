@@ -45,6 +45,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAhmad-098&langs_count=8&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HamzaAhmad-098&theme=radical" alt="GitHub Activity Graph" />
+</p>
 
 ---
 
@@ -58,15 +61,13 @@
 <h3 align="center">🌍 Connect With Me</h3>
 
 <p align="center">
+  
 I'm open to internships , remote jobs , freelance projects, or tech collaboration.
-
 Hamza Ahmad
-
 🔗 GitHub: HamzaAhmad-098
-
 - 📧 Email: [jhajji1223@gmail.com](mailto:jhajji1223@gmail.com)
 - 🌐 Portfolio: [https://portfolio.hamzaxdevelopers.dpdns.org](https://portfolio.hamzaxdevelopers.dpdns.org) 
--    Linkdin : [https://linkedin.com/in/hamza-ahmed-jamil-ahmed-3b7295330]
+-    Linkedin : [https://linkedin.com/in/hamza-ahmed-jamil-ahmed-3b7295330]
 </p>
 
 
