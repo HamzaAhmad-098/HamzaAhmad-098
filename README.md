@@ -46,20 +46,27 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAhmad-098&langs_count=8&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+---
+
 <h3 align="center">🛠️ Tools & Technologies</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,c#,py,rails,ruby,css,html,js,bootstrap,git,github,linux,postgres,mysql,sqlite,arduino,processing,visual studio" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,cs,py,rails,ruby,css,html,js,bootstrap,git,github,linux,postgres,mysql,sqlite,arduino" />
 </p>
 
----
 
 <h3 align="center">🌍 Connect With Me</h3>
 
 <p align="center">
-  <a href="https://portfolio.hamzaxdevelopers.dpdns.org" target="_blank">🌐 Portfolio</a> •
-  <a href="https://github.com/HamzaAhmad-098" target="_blank">GitHub</a> •
+I'm open to internships , remote jobs , freelance projects, or tech collaboration.
 
+Hamza Ahmad
+
+🔗 GitHub: HamzaAhmad-098
+
+- 📧 Email: [jhajji1223@gmail.com](mailto:jhajji1223@gmail.com)
+- 🌐 Portfolio: [https://portfolio.hamzaxdevelopers.dpdns.org](https://portfolio.hamzaxdevelopers.dpdns.org) 
+-    Linkdin : [https://linkedin.com/in/hamza-ahmed-jamil-ahmed-3b7295330]
 </p>
 
 
