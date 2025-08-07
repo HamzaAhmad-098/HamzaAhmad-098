@@ -32,22 +32,36 @@
 - 🔹 **Git Playground** – A repo where I learn all Git CLI commands professionally
 
 ---
-
-### 🌍 Let's Connect!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/hamza-ahmed-jamil-ahmed-3b7295330)  
-- 📧 Email: [jhajji1223@gmail.com](mailto:jhajji1223@gmail.com)
-- 🌐 Portfolio: [https://portfolio.hamzaxdevelopers.dpdns.org](https://portfolio.hamzaxdevelopers.dpdns.org) 
-
----
-
-### 📊 GitHub Stats
+<h2 align="center">📈 My GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HamzaAhmad-098&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAhmad-098&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HamzaAhmad-098&show_icons=true&count_private=true&hide=stars&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HamzaAhmad-098&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAhmad-098&langs_count=8&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<h3 align="center">🛠️ Tools & Technologies</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,rails,ruby,git,github,linux,postgres,mysql,sqlite,arduino,py,cpp,c" />
 </p>
 
 ---
+
+<h3 align="center">🌍 Connect With Me</h3>
+
+<p align="center">
+  <a href="https://portfolio.hamzaxdevelopers.dpdns.org" target="_blank">🌐 Portfolio</a> •
+  <a href="https://github.com/HamzaAhmad-098" target="_blank">GitHub</a> •
+  <a href="https://linkedin.com/in/hamza-ahmed-jamil-ahmed-3b7295330" target="_blank">LinkedIn</a> •
+  <a href="jhaji1223@gmail.com" target="_blank">Email</a>
+</p>
+
 
 ⭐️ Thanks for visiting my profile!
