@@ -34,15 +34,11 @@
 ---
 <h2 align="center">📈 My GitHub Stats</h2>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=HamzaAhmad-098&show_icons=true&count_private=true&hide=stars&theme=radical" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HamzaAhmad-098&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
-
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAhmad-098&langs_count=8&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 <p align="center">
@@ -57,6 +53,7 @@
   <img src="https://skillicons.dev/icons?i=cpp,c,cs,py,rails,ruby,css,html,js,bootstrap,git,github,linux,postgres,mysql,sqlite,arduino" />
 </p>
 
+---
 
 <h3 align="center">🌍 Connect With Me</h3>
 
