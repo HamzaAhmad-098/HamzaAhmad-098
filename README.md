@@ -34,13 +34,14 @@
 ---
 <h2 align="center">📈 My GitHub Stats</h2>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HamzaAhmad-098&show_icons=true&count_private=true&hide=stars&theme=radical" alt="GitHub Stats" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAhmad-098&langs_count=8&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HamzaAhmad-098&show_icons=true&count_private=true&hide=stars&theme=radical" alt="GitHub Stats" />
+</p>
+
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HamzaAhmad-098&theme=radical" />
 </p>
@@ -70,5 +71,6 @@ Hamza Ahmad
 -    Linkedin : [https://www.linkedin.com/in/hamzaxdevelopers]
 </p>
 
+---
 
 ⭐️ Thanks for visiting my profile!
