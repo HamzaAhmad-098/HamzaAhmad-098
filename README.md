@@ -69,7 +69,7 @@ Hamza Ahmad
 🔗 GitHub: HamzaAhmad-098
 - 📧 Email: [jhajji1223@gmail.com](mailto:jhajji1223@gmail.com)
 - 🌐 Portfolio: [https://portfolio.hamzaxdevelopers.dpdns.org](https://portfolio.hamzaxdevelopers.dpdns.org) 
--    Linkedin : [https://www.linkedin.com/in/hamzaxdevelopers]
+-    Linkedin : [https://www.linkedin.com/in/hamzaxdevelopers](https://www.linkedin.com/in/hamzaxdevelopers)
 </p>
 
 ---
