@@ -65,6 +65,7 @@
   
 I'm open to internships , remote jobs , freelance projects, or tech collaboration.
 Hamza Ahmad
+
 🔗 GitHub: HamzaAhmad-098
 - 📧 Email: [jhajji1223@gmail.com](mailto:jhajji1223@gmail.com)
 - 🌐 Portfolio: [https://portfolio.hamzaxdevelopers.dpdns.org](https://portfolio.hamzaxdevelopers.dpdns.org) 
