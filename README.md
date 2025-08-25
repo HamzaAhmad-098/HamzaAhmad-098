@@ -40,11 +40,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HamzaAhmad-098&show_icons=true&count_private=true&hide=stars&theme=radical" alt="GitHub Stats" />
 </p>
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HamzaAhmad-098&theme=radical" />
-</p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HamzaAhmad-098&theme=radical" alt="GitHub Activity Graph" />
 </p>
