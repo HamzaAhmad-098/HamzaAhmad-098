@@ -65,6 +65,7 @@ Hamza Ahmad
 - 📧 Email: [HamzaxDevelopers](mailto:hamzaxdevelopers1223@gmail.com)
 - 🌐 Portfolio: [https://portfolio.hamzaxdevelopers.dpdns.org](https://portfolio.hamzaxdevelopers.dpdns.org) 
 -    Linkedin : [https://www.linkedin.com/in/hamzaxdevelopers](https://www.linkedin.com/in/hamzaxdevelopers)
+-    Upwork : [Hire Me ](https://www.upwork.com/freelancers/~01912afd9a65919d7c?mp_source=share)
 </p>
 
 ---
