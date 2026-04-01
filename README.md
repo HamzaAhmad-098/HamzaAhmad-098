@@ -26,8 +26,8 @@
 
 ### 📁 Featured Projects
 
-- 🔹 **TeacherHelperApp** – AI Grading + Admin Panel – [Live](https://teacherhelperapp.hamzaxdevelopers.dpdns.org) | [Repo](https://github.com/RubyOnRails)
-- 🔹 **Portfolio Website** – HTML/CSS/JS based personal portfolio – [Live](https://portfolio.hamzaxdevelopers.dpdns.org) | [Repo](https://github.com/Portfolio)
+- 🔹 **TeacherHelperApp** – AI Grading + Admin Panel –  [Repo](https://github.com/RubyOnRails)
+- 🔹 **Portfolio Website** – HTML/CSS/JS based personal portfolio – [Live](https://hamzaahmad-098.github.io/Portfolio/) | [Repo](https://github.com/Portfolio)
 - 🔹 **Rails Playground** – Exploring Devise, Mailers, UIs, API & DB integrations  
 - 🔹 **Git Playground** – A repo where I learn all Git CLI commands professionally
 
@@ -63,7 +63,7 @@ Hamza Ahmad
 
 🔗 GitHub: HamzaAhmad-098
 - 📧 Email: [HamzaxDevelopers](mailto:hamzaxdevelopers1223@gmail.com)
-- 🌐 Portfolio: [https://portfolio.hamzaxdevelopers.dpdns.org](https://portfolio.hamzaxdevelopers.dpdns.org) 
+- 🌐 Portfolio: [https://hamzaahmad-098.github.io/Portfolio/](https://hamzaahmad-098.github.io/Portfolio/) 
 -    Linkedin : [https://www.linkedin.com/in/hamzaxdevelopers](https://www.linkedin.com/in/hamzaxdevelopers)
 -    Upwork : [Hire Me ](https://www.upwork.com/freelancers/~01912afd9a65919d7c?mp_source=share)
 </p>
